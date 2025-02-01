@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/images/logo.png" alt="Logo" width="200">
+  <img src="docs/images/logo.png" alt="Logo" width="100">
   <h1>Summary-points</h1>
   <p>本项目是一个高中普通本科部分学科知识点分享的项目</p>
   <p>
